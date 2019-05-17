@@ -1,0 +1,19 @@
+{
+  "name": "glozzom",
+  "version": "1.0.0",
+  "description": "bootstap4 project3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Prashant indurkar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/PrashantIndurkar/Glozzom-bootstarp4-project3.git"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
